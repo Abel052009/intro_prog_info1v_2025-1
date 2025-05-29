@@ -1,0 +1,6 @@
+1. Digite a letra A 
+2. Digite a letra B    
+3 (Some) a letra A com a letra B usando a sicla +
+4 Digite a letra A
+5. Digite a letra B 
+Subtrai 
